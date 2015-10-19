@@ -9,9 +9,20 @@ h1 {
 }
 	
 h2 { 
-	padding: 0.25em;
+	padding: 6px;
 	margin-top: 0.2em;
 	margin-bottom: 0.2em;
+}
+
+p {
+	padding-left: 6px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+aside img{
+	max-width:100%;
+	max-height:100%;
 }
 
 ul {
@@ -31,16 +42,19 @@ header { border-bottom: 2px solid #ef9c00; }
     height: 350px;     /* to give the sidebar some height 
                           for its border */
     float: left;
-    border-right: 2px solid #ef9c00; }
+ }
 main {
     width: 600px; 
-    float: left; }
+    float: left; 
+	border-left: 2px solid #ef9c00;
+    border-right: 2px solid #ef9c00;
+	}
 #sidebarB {
     width: 180px;
     height: 350px;     /* to give the sidebar some height 
                           for its border */
     float: right;
-    border-left: 2px solid #ef9c00; }
+	}
 
 
 footer {
