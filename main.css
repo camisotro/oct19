@@ -46,8 +46,7 @@ header { border-bottom: 2px solid #ef9c00; }
 	
 #sidebarA {
     width: 180px;
-    height: 350px;     /* to give the sidebar some height 
-                          for its border */
+    height: 350px; 
     float: left;
  }
  
@@ -66,8 +65,7 @@ body.hearth main {
 	
 #sidebarB {
     width: 180px;
-    height: 350px;     /* to give the sidebar some height 
-                          for its border */
+    height: 350px;
     float: right;
 	}
 
