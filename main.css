@@ -5,7 +5,10 @@ body {
     margin: 15px auto;
     border: 1px solid black; }
 
-h2 { padding: 1em; }
+h2 { padding: 0.2em; }
+
+ul { padding-lfet: 0.2em; }
+li { padding-left: 0.2em; }
 
 header { border-bottom: 2px solid #ef9c00; }
 	
