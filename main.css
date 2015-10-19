@@ -4,7 +4,24 @@ body {
     margin: 15px auto;
     border: 1px solid black; }
 
-h2 { padding: 1em; }
+h1 {
+	text-align: center
+}
+	
+h2 { 
+	padding: 0.25em;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+ul {
+	padding-left: 24px;
+	margin: 0;
+}
+
+ul li {
+	padding-bottom: 0.5em;
+}
 
 header { border-bottom: 2px solid #ef9c00; }
 	
@@ -29,5 +46,3 @@ main {
 footer {
     clear: both;
     border-top: 2px solid #ef9c00; }
-
-	
