@@ -4,6 +4,13 @@ body {
     margin: 15px auto;
     border: 1px solid black; }
 
+body.hearth
+ {
+	background-color: #333333;
+	color: rgb(162, 185, 194);
+	border: 1px solid white; 
+}
+	
 h1 {
 	text-align: center
 }
@@ -43,12 +50,20 @@ header { border-bottom: 2px solid #ef9c00; }
                           for its border */
     float: left;
  }
+ 
 main {
     width: 600px; 
+	min-height: 600px;
     float: left; 
 	border-left: 2px solid #ef9c00;
     border-right: 2px solid #ef9c00;
 	}
+	
+body.hearth main {
+	border-left: 2px solid white;
+    border-right: 2px solid white;
+	}
+	
 #sidebarB {
     width: 180px;
     height: 350px;     /* to give the sidebar some height 
