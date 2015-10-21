@@ -41,7 +41,7 @@ ul li {
 	padding-bottom: 0.5em;
 }
 
-header { border-bottom: 2px solid #ef9c00; }
+header { border-bottom: 2px solid grey; }
 	
 	
 #sidebarA {
@@ -74,4 +74,4 @@ body.hearth main {
 
 footer {
     clear: both;
-    border-top: 2px solid #ef9c00; }
+    border-top: 2px solid grey; }
