@@ -63,6 +63,14 @@ body.hearth main {
 	border-left: 2px solid white;
     border-right: 2px solid white;
 	}
+
+body.hearth a:link {
+    color: white;
+}
+
+body.hearth a:visited {
+    color: #FFBBFF;
+}
 	
 #sidebarB {
     width: 180px;
