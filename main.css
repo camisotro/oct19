@@ -31,6 +31,11 @@ aside img{
 	max-height:200px;
 }
 
+aside img.full{
+	max-height:100%;
+}
+
+
 ul {
 	padding-left: 24px;
 	margin: 0;
@@ -78,6 +83,13 @@ body.hearth a:visited {
     float: right;
 	}
 
+
+main img.small{
+    display:block;
+    max-width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
 
 footer {
     clear: both;
