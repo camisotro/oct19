@@ -4,8 +4,7 @@ body {
     margin: 15px auto;
     border: 1px solid black; }
 
-body.hearth
- {
+body.hearth {
 	background-color: #333333;
 	color: rgb(162, 185, 194);
 	border: 1px solid white; 
